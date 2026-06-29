@@ -2,7 +2,6 @@
 
 A modern, responsive web application for browsing and watching live TV channels. Built with vanilla HTML, CSS, and JavaScript.
 
-![TV Live Streaming Preview](https://placehold.co/800x450/0b0d11/e50914?text=TV+Live+Streaming+Demo)
 
 ## Features
 

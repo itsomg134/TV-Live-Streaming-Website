@@ -137,7 +137,7 @@ Contributions are welcome! Here's how you can help:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👏 Credits
+## Credits
 
 - Icons by [Font Awesome](https://fontawesome.com/)
 - Video sample from [W3Schools](https://www.w3schools.com/html/mov_bbb.mp4)

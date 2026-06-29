@@ -52,7 +52,7 @@ tv-live-streaming/
     └── videos/         # Video files
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Adding New Channels
 

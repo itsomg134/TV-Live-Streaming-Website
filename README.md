@@ -42,7 +42,7 @@ A modern, responsive web application for browsing and watching live TV channels.
 
 3. **Start streaming** – Browse channels and click on any to start watching!
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tv-live-streaming/

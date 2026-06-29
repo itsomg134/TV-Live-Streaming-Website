@@ -2,6 +2,7 @@
 
 A modern, responsive web application for browsing and watching live TV channels. Built with vanilla HTML, CSS, and JavaScript.
 
+<img width="1895" height="1486" alt="image" src="https://github.com/user-attachments/assets/b8b619f8-f5dc-4ffa-a515-19f97455f0df" />
 
 ## Features
 

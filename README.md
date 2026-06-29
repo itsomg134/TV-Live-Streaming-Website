@@ -13,13 +13,6 @@ A modern, responsive web application for browsing and watching live TV channels.
 - **Visual Feedback** – Active channel highlighting, live badges, and smooth hover animations
 - **Channel Information** – Display channel name, category, and logo with the current stream
 
-
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://placehold.co/800x450/1a1e27/8b94a5?text=Desktop+View) | ![Mobile](https://placehold.co/400x800/1a1e27/8b94a5?text=Mobile+View) |
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic markup

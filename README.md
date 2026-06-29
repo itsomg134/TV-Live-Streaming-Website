@@ -21,7 +21,7 @@ A modern, responsive web application for browsing and watching live TV channels.
 - **Font Awesome 6** – Icon library
 - **HTML5 Video API** – Video playback controls
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash

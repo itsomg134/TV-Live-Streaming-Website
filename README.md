@@ -122,7 +122,7 @@ Contributions are welcome! Here's how you can help:
 - Autoplay may be blocked by browsers – user interaction is required
 - Some video formats may not be supported across all browsers
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 - [ ] Add channel categories filter
 - [ ] Implement search functionality

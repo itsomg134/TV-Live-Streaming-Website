@@ -13,7 +13,7 @@ A modern, responsive web application for browsing and watching live TV channels.
 - **Visual Feedback** – Active channel highlighting, live badges, and smooth hover animations
 - **Channel Information** – Display channel name, category, and logo with the current stream
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic markup
 - **CSS3** – Modern styling with Flexbox and Grid

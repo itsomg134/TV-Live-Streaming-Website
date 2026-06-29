@@ -133,7 +133,7 @@ Contributions are welcome! Here's how you can help:
 - [ ] Add favorite channels feature
 - [ ] Real-time channel status updates
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 

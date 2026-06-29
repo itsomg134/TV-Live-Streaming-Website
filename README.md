@@ -4,7 +4,7 @@ A modern, responsive web application for browsing and watching live TV channels.
 
 ![TV Live Streaming Preview](https://placehold.co/800x450/0b0d11/e50914?text=TV+Live+Streaming+Demo)
 
-## ✨ Features
+## Features
 
 - **Live Channel Browsing** – Browse through a grid of available TV channels with live status indicators
 - **Video Playback Controls** – Play, pause, seek, volume control, and fullscreen support

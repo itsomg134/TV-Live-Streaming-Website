@@ -85,7 +85,7 @@ You can customize the video player by modifying the CSS variables and styles in 
 }
 ```
 
-## 🎮 Usage
+## Usage
 
 ### Basic Controls
 

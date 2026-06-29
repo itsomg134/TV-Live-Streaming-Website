@@ -142,3 +142,16 @@ This project is open source and available under the [MIT License](LICENSE).
 - Icons by [Font Awesome](https://fontawesome.com/)
 - Video sample from [W3Schools](https://www.w3schools.com/html/mov_bbb.mp4)
 - Placeholder images from [Placehold.co](https://placehold.co/)
+##  Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)

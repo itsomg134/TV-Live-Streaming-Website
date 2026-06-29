@@ -105,7 +105,7 @@ You can customize the video player by modifying the CSS variables and styles in 
 - `F` – Fullscreen (not implemented, but you can add it)
 - `M` – Mute/Unmute (not implemented, but you can add it)
 
-## 🌐 Browser Support
+## Browser Support
 
 | Chrome | Firefox | Safari | Edge | Opera |
 |--------|---------|--------|------|-------|

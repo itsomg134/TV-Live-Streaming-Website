@@ -116,7 +116,7 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🐛 Known Issues
+## Known Issues
 
 - Video sources are currently using placeholder URLs – replace with actual stream URLs
 - Autoplay may be blocked by browsers – user interaction is required
